@@ -1,2 +1,2 @@
 # ExpandingCards
-Projeto realizado com HTML, CSS e JavaScript
+Projeto de aprendizado realizado com HTML, CSS e JavaScript
